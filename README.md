@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rono
+- 👀 I’m interested in ... pretty much nothing
+- 🌱 I’m currently learning Computer Science & programming
