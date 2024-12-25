@@ -1,14 +1,11 @@
-Hi 👋 My name is Rafin
+Hi, Rafin here
 ======================
 
 Amature Developer
 -----------------
 
-* 🌍  I'm based in Dhaka, Bangladesh
-* ✉️  You can contact me at [rafinabrar7666@gmail.com](mailto:rafinabrar7666@gmail.com)
-
-<a href="https://www.github.com/RafinRono" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RafinRono?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+* 🌍  Based in Dhaka, Bangladesh
+* ✉️  Contact me at [rafinabrar7666@gmail.com](mailto:rafinabrar7666@gmail.com)
 
 ### Skills
 
