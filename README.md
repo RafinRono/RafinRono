@@ -1,11 +1,8 @@
-Hi, Rafin here
-======================
-
-Amature Developer
+Learning Development and Research tactics
 -----------------
 
 * 🌍  Based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [Google-sites](http://sites.google.com/view/rono-eportfolio/)
+* 🖥️  See my [portfolio](http://sites.google.com/view/rono-eportfolio/)
 
 ### Skills
 
